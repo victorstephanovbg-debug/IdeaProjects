@@ -2,7 +2,7 @@ package Lecture1;
 
 import java.util.Scanner;
 
-public class convertor_minutes_days_years {
+public class ConvertorMinutesDaysYears {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter number of minutes:");
